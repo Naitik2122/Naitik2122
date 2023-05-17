@@ -32,7 +32,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naitik2122&layout=compact&theme=dark)
 
-![activity graph](https://activity-graph.herokuapp.com/graph?username=naitik2122&theme=xcode)
+
 
 ## 💫 Github Metrics
 
