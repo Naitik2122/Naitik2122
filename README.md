@@ -30,9 +30,6 @@
 
 ![Naitik's GitHub stats](https://github-readme-stats.vercel.app/api?username=naitik2122&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naitik2122&layout=compact&theme=dark)
-
-
 
 ## 💫 Github Metrics
 
