@@ -36,7 +36,7 @@
 
 ## 💫 Github Metrics
 
-![Metrics](https://metrics.lecoq.io/naitik2122?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&activity=1&achievements=1&notable=1&repositories=1&tweets=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&introduction.title=true&stars.limit=4&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&config.timezone=Europe%2FHelsinki)
+![Metrics](https://metrics.lecoq.io/naitik2122?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&activity=1&achievements=1&notable=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&config.timezone=Europe%2FHelsinki)
 
 
 
